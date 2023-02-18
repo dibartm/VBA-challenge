@@ -1,4 +1,4 @@
-# VBA Homework: The VBA of Wall Street
+# VBA Homework: The VBA of Wall Street - week 2 homework
 
 ## Background
 
